@@ -62,6 +62,6 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-
+![output](
 ## RESULT:
 The program is executed succesfully
